@@ -1,0 +1,6 @@
+
+1. cd ~/ to make sure I was at my root folder
+2. mkdir Sites
+3. cd Sites
+4. mkdir -p 1/2/3/4/5/6/7/8/9/hello/its/me/adele.jpg
+5. mkdir -p I/was/wondering/if/after/all/these/years/you/would/like/to/meet.jpg
